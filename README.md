@@ -1,1 +1,1 @@
-My Data Science projects used for predications using various algorithms and data sets.
+My Data Science projects used for predictions using various algorithms and data sets.
